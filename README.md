@@ -6,12 +6,13 @@ Android Studio'da java ile kodlanmıştır.
 Not:Verilen tahminler kesin ve doğru sonuç değildir. Sadece bir tahmin programıdır.
 
 ----------
-# Dikkat edilen özellikler
-
+Dikkat edilen özellikler
 Büyük ünlü uyumu %30
+
 Kökteki ünlü harfler kalın ise köke gelen ekteki ünlü harflerde kalın olmalı. İnce ise ince olmalı.
 Kalın ünlüler: a, ı, o, u
 İnce ünlüler: e, i, ö, ü
+
 -------------
 Küçük Ünlü Uyumu %30
 
