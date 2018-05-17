@@ -13,11 +13,10 @@ Kökteki ünlü harfler kalın ise köke gelen ekteki ünlü harflerde kalın ol
 Kalın ünlüler: a, ı, o, u
 İnce ünlüler: e, i, ö, ü
 
--------------
+---
 Küçük Ünlü Uyumu %30
-
-Bir kelimede düz ünlüden sonra düz ünlü "a, e, ı, i", yuvarlak ünlüden sonra yuvarlak dar veya düz geniş ünlü gelir "o, ö, u, ü" -> "u, ü" veya "a, e".
--------------
+Bir kelimede düz ünlüden sonra düz ünlü "a, e, ı, i", yuvarlak ünlüden sonra yuvarlak dar veya dzü geniş ünlü gelir "o, ö, u, ü" -> "u, ü" veya "a, e
+---
 Diğer Özellikler
 
 * "ğ,İ,ü,ı,ç,ş,ö" harfleri sadece türkçe de bulunur. 
