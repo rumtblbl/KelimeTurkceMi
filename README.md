@@ -16,10 +16,7 @@ Kalın ünlüler: a, ı, o, u
 -------------
 Küçük Ünlü Uyumu %30
 
-Bir kelimede düz ünlüden sonra düz ünlü,
-"a, e, ı, i",
-yuvarlak ünlüden sonra yuvarlak dar veya düz geniş ünlü gelir
-o, ö, u, ü -> "u, ü" veya "a, e"
+Bir kelimede düz ünlüden sonra düz ünlü "a, e, ı, i", yuvarlak ünlüden sonra yuvarlak dar veya düz geniş ünlü gelir "o, ö, u, ü" -> "u, ü" veya "a, e".
 -------------
 Diğer Özellikler
 
