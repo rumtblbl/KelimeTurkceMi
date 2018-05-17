@@ -1,6 +1,7 @@
 # KelimeTurkceMi
 
 Girilen kelimenin Türkçe bir kelime olup olmadığı hakkında tahminsel bir yüzde veren uygulama.
+
 Android Studio'da java ile kodlanmıştır.
 
 Not:Verilen tahminler kesin ve doğru sonuç değildir. Sadece bir tahmin programıdır.
