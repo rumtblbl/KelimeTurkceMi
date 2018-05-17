@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.myworldofsoftware.turkcekontrolapp.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kelime:"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:paddingTop="190dp"
+        android:paddingLeft="40dp"
+        android:id="@+id/textView" />
+
+    <Button
+        android:id="@+id/btnKontrol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/editTextKelime"
+        android:layout_below="@+id/editTextKelime"
+        android:text="Kontrol Et"
+        tools:layout_editor_absoluteX="87dp"
+        tools:layout_editor_absoluteY="265dp" />
+
+    <EditText
+        android:id="@+id/editTextKelime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_marginStart="22dp"
+        android:layout_toEndOf="@+id/textView"
+        android:ems="10"
+        android:inputType="textPersonName"/>
+
+    <TextView
+        android:id="@+id/textRapor"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/btnKontrol"
+        android:textSize="20sp"
+        android:paddingLeft="10dp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
